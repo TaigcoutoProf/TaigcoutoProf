@@ -15,6 +15,13 @@ Os repositórios deste perfil sempre são acompanhados de uma documentação que
 
 Sinta-se à vontade para dar forks e me passar feedbacks acompanhados de pull requests. Quero saber como estes cases podem ser melhorados para atingir alunos dos mais diversos perfis.
 
+<!-- Só pra guardar o trecho do Stats (repositório: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaigcoutoProf)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<div> 
+  
+</div>
+
 
 <!--
 **TaigcoutoProf/TaigcoutoProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

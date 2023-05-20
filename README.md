@@ -22,7 +22,9 @@ Sinta-se à vontade para dar forks e me passar feedbacks acompanhados de pull re
   
 </div>
 
-![Snake animation](https://github.com/TaigcoutoProf/TaigcoutoProf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/taigcoutoProf/taigcoutoProf/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--

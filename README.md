@@ -21,11 +21,11 @@ Sinta-se à vontade para dar forks e me passar feedbacks acompanhados de pull re
 <div> 
   
 </div>
-
+<!-- Teste cobrinha
 ![Snake animation](https://github.com/TaigcoutoProf/TaigcoutoProf/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 <!--
 **TaigcoutoProf/TaigcoutoProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

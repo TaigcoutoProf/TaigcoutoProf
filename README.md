@@ -18,15 +18,6 @@ Sinta-se à vontade para dar forks e me passar feedbacks acompanhados de pull re
 <!-- Só pra guardar o trecho do Stats (repositório: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaigcoutoProf)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<div> 
-  
-</div>
-<!-- Teste cobrinha
-![Snake animation](https://github.com/TaigcoutoProf/TaigcoutoProf/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
--->
-
 <!--
 **TaigcoutoProf/TaigcoutoProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 ## Seja bem vindo ao meu perfil!
 
-Sou a Tainá Couto Gonçalves, moradora de Taubaté, no Vale do Paraíba), docente da área de Tecnologia da Informação do Senac de Pindamonhangaba.
+Sou a Tainá Couto Gonçalves, moradora de Taubaté, no Vale do Paraíba, docente da área de Tecnologia da Informação do Senac de Pindamonhangaba.
 
 Cheguei recentemente do GitHub com o obetivo de agregar com o conteúdo de aula de outros docentes da área. Acredito que com o compartilhamento de ideias podemos otimizar o ensino e atingir alunos de formas diferentes.
 

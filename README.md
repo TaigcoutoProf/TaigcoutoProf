@@ -1,11 +1,12 @@
-<!-- # Olá!
+ # Olá!
 
 ## Seja bem vindo ao meu perfil!
 
-Sou a Tainá Couto Gonçalves, moradora de Taubaté, no Vale do Paraíba, docente da área de Tecnologia da Informação do Senac de Pindamonhangaba.
+Sou a Tainá, docente da área de Tecnologia da Informação do Senac de Pindamonhangaba.
 
-Cheguei recentemente do GitHub com o obetivo de agregar com o conteúdo de aula de outros docentes da área. Acredito que com o compartilhamento de ideias podemos otimizar o ensino e atingir alunos de formas diferentes.
+Esse perfil não tem muito projeto público, mas existe uma intenção futura de melhorá-lo 😊
 
+<!--
 ## Sobre a Gamificação
 Desde criança me interesso por jogos e, desde minha primeira certificação, estudo sobre o mundo dos games. O interesse em gamificação surge a partir do momento em que começo a dar aulas (em 2020). A partir daí, começa a nascer um portfólio pessoal voltado exclusivamente para o ensino de programação para jovens e adultos. Após entrar no SENAC como Monitora de Educação Profissionar conheci o método de ensino por projetos e me identifiquei.
 

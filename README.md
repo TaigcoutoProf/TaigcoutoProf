@@ -31,7 +31,8 @@ Sejam bem-vindos ao meu espaço no GitHub! Este perfil está sendo construído p
 
 ### 📫 Como me encontrar:
 **Linkedin:**
-<a href="https://www.linkedin.com/in/tain%C3%A1-couto-gon%C3%A7alves-92b065276/"><img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" width="40" alt="Descrição da imagem"></a>
+<a href="https://www.linkedin.com/in/tain%C3%A1-couto-gon%C3%A7alves-92b065276/"><img src="https://t.ctcdn.com.br/ClbNm_AxWl6gDsKOKmnZXzmsIXI=/1080x1080/smart/i490027.jpeg" width="20" alt="Descrição da imagem"></a>
+
 **Email:** taigcouto.prof@gmail.com
 
 ⭐ Não se esqueça de deixar uma estrela nos repositórios que você achar útil!

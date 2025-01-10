@@ -4,15 +4,15 @@
 Atualmente sou docente no Senac de Pindamonhangaba, atuando nas áreas de Design e TI. Ministro aulas em diversos cursos técnicos, incluindo Informática, Informática para Internet, Multimídia e Design Gráfico.
 
 🎓 Formação:
-- Bacharel em Ciência da Computação
-- Técnico em Design de Games
-- Especialização em Gamificação
-- Em preparação para Mestrado unindo TI e Design e games
+- Bacharel em Ciência da Computação;
+- Técnico em Design de Games;
+- Especialização em Gamificação;
+- Em preparação para Mestrado unindo TI, design e games.
 
 ## 🎮 Interesses Pessoais
-- 📚 Leitora ávida de fantasia, mitologia e romances água com açúcar
-- 🎮 Gamer apaixonada por jogos narrativos, puzzles e aventuras
-- 🎬 Fã de filmes e séries apocalípticas, fantasias, animações e romances água com açúcar
+- 📚 Leitora ávida de fantasia, mitologia e romances água com açúcar;
+- 🎮 Gamer apaixonada por jogos narrativos, puzzles e aventuras;
+- 🎬 Fã de filmes e séries apocalípticas, fantasias, animações e romances água com açúcar.
 
 
 ## 💻 Tecnologias

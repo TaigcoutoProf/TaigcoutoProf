@@ -24,7 +24,7 @@ Atualmente sou docente no Senac de Pindamonhangaba, atuando nas áreas de Design
           
 
 ## 📌 Projetos
-Estou em processo de expansão do meu portfólio aqui no GitHub! Em breve, compartilharei diversos projetos e materiais educacionais voltados para estudantes de TI. 
+Estou em processo de expansão do meu portfólio aqui no GitHub! Em breve, compartilharei diversos projetos e materiais educacionais voltados para estudantes de TI.  
 
 ## 🌟 Convite aos Alunos
 Sejam bem-vindos ao meu espaço no GitHub! Este perfil está sendo construído pensando especialmente em vocês, alunos. Fiquem à vontade para explorar os repositórios, fazer perguntas e utilizar os materiais disponíveis para seus estudos.

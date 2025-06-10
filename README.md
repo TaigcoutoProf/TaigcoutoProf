@@ -10,7 +10,7 @@ Atualmente sou docente no Senac de Pindamonhangaba, atuando nas áreas de Design
 - Em preparação para Mestrado unindo TI, design e games.
 
 ## 🎮 Interesses Pessoais
-- 📚 Leitora ávida de fantasia, mitologia e romances água com açúcar;
+- 📚 Leitora de fantasia, mitologia e romances água com açúcar;
 - 🎮 Gamer apaixonada por jogos narrativos, puzzles e aventuras;
 - 🎬 Fã de filmes e séries apocalípticas, fantasias, animações e romances água com açúcar.
 
